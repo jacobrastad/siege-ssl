@@ -7,4 +7,5 @@ docker run --rm -t rastad/siege:latest --verbose -H "Cookie: mycookie=2020;" -c1
 ```
 ## Parameters
 `-c` Number of concurrent users
+
 `-r` Number of times to run per user
